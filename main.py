@@ -11,7 +11,7 @@ from texte import SPRACHEN,HELP
 
 
 TAG = "[L O L] "
-TOKEN = "NTM4MDI1ODgxNDkxMjEwMjQw.D0xCjw.Csdc_I-LpaS6y1zQVX2wRLVN3cs"
+TOKEN = "NTM4MDI1ODgxNDkxMjEwMjQw.XKnZ8w.sXUNnCuZUDvcoH5Dl2L_0GCk6kU"
 
 bot = commands.Bot(
     command_prefix="-"
